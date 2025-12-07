@@ -1,0 +1,5 @@
+{
+  "name": "ISV_TESTE_BD",
+  "description": "Um sistema de gerenciamento escolar completo com funcionalidades para administradores, professores e pais, incluindo gestão de alunos, turmas, finanças e um diário de classe digital.",
+  "requestFramePermissions": []
+}
